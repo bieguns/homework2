@@ -35,7 +35,7 @@ div {
 /* styles for specific divs using id */
 div#red {
 	background-color: #ff0000;
-	text-align: left;
+	text-align: right;
 }
 
 div#blue {
