@@ -58,3 +58,10 @@ div#green {
 	background-color: #008000; 
 	text-align: left;
 }
+
+/* Footer style */
+footer > p {
+	text-align: right;
+	padding-bottom: 10px;
+	padding-right: 10px;
+}
