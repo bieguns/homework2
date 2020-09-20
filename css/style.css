@@ -1,5 +1,5 @@
 
-/* Text style */
+/* standard style for default tags */
 body {
 	font-family: "Lucida Console", sans-serif;
 	color: #ffffff;
@@ -21,19 +21,18 @@ p {
 	padding-top: 20px;
 }
 
-/* Image style */
 img {
 	display: block;
 	margin: auto;
 	max-width: 525px;
 }
 
-/* Div style */
 div {
 	min-height: 150px;
 	padding: 25px 25px 25px 25px;
 }
 
+/* styles for specific divs using id */
 div#red {
 	background-color: #ff0000;
 	text-align: left;
@@ -59,7 +58,7 @@ div#green {
 	text-align: left;
 }
 
-/* Footer style */
+/* footer paragraph style */
 footer > p {
 	text-align: right;
 	padding-bottom: 10px;
