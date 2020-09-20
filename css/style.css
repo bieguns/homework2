@@ -1,0 +1,22 @@
+
+/* Text style */
+body {
+	font-family: "Lucida Console", sans-serif;
+	color: #ffffff;
+	background-color: #000000;
+}
+
+h1 {
+	font-size: 16px;
+	text-align: center;
+}
+
+h2 {
+	font-size: 30px;
+	text-shadow: 5px 5px 2px #808080;
+}
+
+p {
+	font-size: 24px;
+	padding-top: 20px;
+}
