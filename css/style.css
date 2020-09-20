@@ -24,7 +24,7 @@ p {
 /* Image style */
 img {
 	display: block;
-	float: center;
+	margin: auto;
 	max-width: 525px;
 }
 
@@ -47,7 +47,7 @@ div#blue {
 div#yellow {
 	background-color: #ffff00;
 	text-align: right;
-	color: #ffffff;
+	color: #000000;
 }
 
 div#yellow > h2  {
